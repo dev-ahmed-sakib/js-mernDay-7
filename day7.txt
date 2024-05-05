@@ -1,0 +1,56 @@
+JSON.Stringify()  
+JSON.parse()
+make a short saparate JSON data strcture 
+
+// Date object //
+new Date()
+getTime()
+Date.now()
+getDate()
+getDay()
+getMinutes()
+getSecond()
+
+// Math Object //
+PI
+Math.round()
+Math.ceil()
+Math.floor()
+Math.abs()
+Math.max()
+Math.min()
+Math.pow()
+Math.sqrt()
+Math.random()
+
+// String //
+string length
+trim()
+toUpperCase()
+toLowerCase()
+replace() 
+startsWith()
+endsWith()
+empty space count
+includes() string
+split
+slice()
+splice not working in string
+substr()
+substring
+
+// Number //
+parseInt()
+parseFloat()
+Number()
+String()
+unary + oparetor
+number to string converter 
+toFixed
+toExponential()
+toPrecision()
+-----------
+Date.now() to toString()
+Number() / true-false
+true-false to convert String()
+
