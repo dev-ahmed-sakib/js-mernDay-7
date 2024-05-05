@@ -1,10 +1,32 @@
 
-const vibegaming = [{
-    
-}]
+// ------ String data to array of object data convert using JSON -------//
+// const arr2 = [{"name":"sakib","age":19,"skill":"MERN","favorite_foods":["Chichen Dum","Kacchi","Morog Polao","Beef"],"location":"chattogram","profession":"student"}]
 
-console.log(JSON.)
+// console.log(arr2)
+// //////----------/////
+// const arr3 = `[{"name":"sakib","age":19,"skill":"MERN","favorite_foods":["Chichen Dum","Kacchi","Morog Polao","Beef"],"location":"chattogram","profession":"student"}]`
 
+// let convert = JSON.parse(arr3);
+// console.log(convert[0].name)
+
+
+
+
+
+
+
+
+// ------ array of object to JSON data convert -------//
+// const arr = [{
+//     name : "sakib",
+//     age : 19,
+//     skill : "MERN",
+//     favorite_foods : ["Chichen Dum","Kacchi","Morog Polao","Beef"],
+//     location : "chattogram",
+//     profession : "student"
+// }]
+
+// console.log(JSON.stringify(arr))
 
 
 
